@@ -12,12 +12,26 @@ li > a {
 	text-decoration: none;
 }
 
-li > a:hover {
-
-}
-
 .middle {
 	background: linear-gradient(-45deg,#ec5252,#6e1a52);
   	display: flex;
   	justify-content: space-around;
+}
+
+.logo {
+	height: 25px;
+	width: 25px;
+
+}
+
+.card {
+	width: auto;
+}
+
+.udemylogo {
+ 	width: auto;
+}
+
+.jumbotron {
+	background-image: url(C:\Users\laeti\Documents\GitHub\UDEMY-PROJECT-3\UDEMY-PROJECT-3\img/banniere.jpg);
 }
