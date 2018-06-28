@@ -33,5 +33,5 @@ li > a {
 }
 
 .jumbotron {
-	background-image: url(C:\Users\laeti\Documents\GitHub\UDEMY-PROJECT-3\UDEMY-PROJECT-3\img/banniere.jpg);
+	background-image: url('C:\Users\laeti\Documents\GitHub\UDEMY-PROJECT-3\UDEMY-PROJECT-3\img/banniere.jpg');
 }
